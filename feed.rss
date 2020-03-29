@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://escapingweb.github.io/rss/feed.rss" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <title>Escaping Web</title>
+    <itunes:new-feed-url>https://escapingweb.github.io/rss/feed.rss</itunes:new-feed-url>
+    <description>Celebrating software engineers who've found their calling outside of routine web development, and imagining a future where the web is no longer the dominant platform.</description>
+    <copyright>© 2020 Charlie Harrington and Oz Nova</copyright>
+    <language>en</language>
+    <pubDate>Mon, 28 Oct 2019 07:00:00 -0700</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2020 05:08:54 -0700</lastBuildDate>
+    <link>https://www.escapingweb.com</link>
+    <image>
+      <url>https://escapingweb.github.io/rss/logo.jpg</url>
+      <title>Escaping Web</title>
+      <link>https://www.escapingweb.com</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Arts"/>
+    <googleplay:author>Charlie Harrington and Oz Nova</googleplay:author>
+    <googleplay:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+    <googleplay:summary>Celebrating software engineers who've found their calling outside of routine web development, and imagining a future where the web is no longer the dominant platform.</googleplay:summary>
+    <googleplay:explicit>No</googleplay:explicit>
+    <googleplay:block>No</googleplay:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+    <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+    <itunes:summary>Celebrating software engineers who've found their calling outside of routine web development, and imagining a future where the web is no longer the dominant platform.</itunes:summary>
+    <itunes:subtitle>Celebrating software engineers who've found their calling outside of routine web development, and imagining a future where the web is no longer the dominant platform..</itunes:subtitle>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Oz Nova</itunes:name>
+      <itunes:email>oz@bradfieldcs.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <item>
+      <title>6: Algorithmically Speaking with Elliott Jin of Triplebyte</title>
+      <itunes:title>6: Algorithmically Speaking with Elliott Jin of Triplebyte</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">44923b99-8fa7-47cf-a69c-150866881547</guid>
+      <link>https://escapingweb.github.io/audio/006_algorithmically_speaking_with_elliott_jin_of_triplebyte.mp3 </link>
+      <description>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You're gonna hear a lot about Project Euler in this one.</description>
+      <content:encoded>
+        <![CDATA[Charlie and Oz explore Elliott's path down the various intellectual rabbit holes (mostly Project Euler) that led him to software engineering at Dropbox, teaching the Algorithms course at Bradfield, and now leading Triplebyte's Interview tech team. Elliott also reveals the correct way to read a textbook (of which Charlie hadn't the foggiest), and Oz and Elliott try to explain to Charlie how they motivate students in their classes through "guided struggle."<br><br><strong>Links and resources:</strong><ul>
+<li>
+<a href="https://projecteuler.net/">Project Euler</a> </li>
+<li>
+<a href="https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628">K&amp;R C </a>(book)</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Gorillas_(video_game)">Gorillas (QBasic)</a> (game)</li>
+<li><a href="https://en.wikipedia.org/wiki/Windows_3.1x">Windows 3.1</a></li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Drugwars">Drugwars (TI-83)</a> (game)</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Space_Trader_(Palm_OS)">Space Trader</a> (game)</li>
+<li>
+<a href="https://twitter.com/jessitron/status/1183377840089305089">Computer Science Principles: Table of Contents</a> (tweet)</li>
+<li>
+<a href="https://web.nmsu.edu/~davidp/hpm-subm-2012-number-theory-course.pdf">Teaching Number Theory from Sophie Germain's Manuscripts: syllabus by David Pengelly</a> (course)</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/How_to_Solve_It">How to Solve It - George Polya</a> (book)</li>
+<li>
+<a href="http://pleasingfungus.com/Silicon%20Zeroes/">Silicon Zeroes </a>(game)</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/The_Diamond_Age">The Diamond Age - Neal Stephenson</a> (book)</li>
+<li>
+<a href="https://www.amazon.com/Computability-Logic-George-S-Boolos/dp/0521701465">Computability and Logic</a> (book)</li>
+<li>
+<a href="https://www.amazon.com/Elements-Programming-Alexander-Stepanov/dp/032163537X">Elements of Programming </a>(book)</li>
+<li>
+<a href="https://mitpress.mit.edu/sites/default/files/sicp/index.html">SICP </a>(book)</li>
+<li>
+<a href="http://augmentingcognition.com/ltm.html">Augmenting Long-term Memory: Michael Nielsen </a>(article)</li>
+<li>
+<a href="https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681">A Mind at Play - Jimmy Soni and Rob Goodman</a>, Claude Shannon biography (book)</li>
+<li>
+<a href="https://thebitplayer.com/">The Bit Player</a> (Claude Shannon movie)</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Useless_machine">The ultimate (useless) machine</a> (wikipedia article)</li>
+<li><a href="https://www.dropbox.com">Dropbox</a></li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Formative_assessment">Formative Assessment</a> (wikipedia article)</li>
+<li><a href="https://triplebyte.com/">Triplebyte</a></li>
+<li>
+<a href="https://github.com/robot-dreams">Elliott Jin</a> on GitHub</li>
+<li>
+<a href="https://medium.com/@robot_dreams">Elliott Jin</a> on Medium</li>
+<li>
+<a href="https://twitter.com/whatrocks">Charlie Harrington</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/oznova_">Oz Nova</a> on Twitter</li>
+</ul><strong>Episode Sponsor</strong><ul><li><a href="https://bradfieldcs.com/">Bradfield School of Computer Science</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Mon, 28 Oct 2019 07:00:00 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://escapingweb.github.io/audio/006_algorithmically_speaking_with_elliott_jin_of_triplebyte.mp3" length="92236297" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+      <itunes:duration>4608</itunes:duration>
+      <itunes:summary>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You're gonna hear a lot about Project Euler in this one.</itunes:summary>
+      <itunes:subtitle>Elliott Jin is the Interview Team Tech Lead at Triplebyte. You're gonna hear a lot about Project Euler in this one.</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>5: Learning Your Stripes with Grant Wu of Stripe</title>
+      <itunes:title>5: Learning Your Stripes with Grant Wu of Stripe</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">e5269dc8-79c2-4094-87f1-6c580ca01ab6</guid>
+      <link>https://escapingweb.github.io/audio/005_learning_your_stripes_with_grant_wu_of_stripe.mp3</link>
+      <description>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</description>
+      <content:encoded>
+        <![CDATA[Charlie and Oz dig into Grant’s study habits for self-guided learning (like building a toy kernel and toy compiler) — and how those low-level projects influenced his path to Stripe. The gang gets into it over bootcamps, baking bread, and learning to play music — all with the broader theme of exploring what it means to be creative. To top it off, we learn that Oz has a joint degree in math(s) and the (Australian) law?!<br><br><strong>Links and resources:</strong><ul>
+<li><a href="https://stripe.com">Stripe</a></li>
+<li><a href="https://sorbet.org/">Sorbet: Ruby Static Type Checker</a></li>
+<li><a href="https://increment.com/">Stripe’s Increment Magazine</a></li>
+<li><a href="https://press.stripe.com/">The Dream Machine, Stripe Press</a></li>
+<li><a href="https://www.goodreads.com/book/show/830502.It">IT by Stephen King</a></li>
+<li><a href="http://teachyourselfcs.com">teachyourselfcs.com</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=v7s8m_-sA-Y">Matt O’Ree</a> (Charlie’s guitar teacher in 8th grade and winner of the 2006 Guitar Center King of The Blues)</li>
+<li>
+<a href="https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202">Flow: The Psychology of Optimal Experience</a> by Mihaly Csikszentmihalyi (second time that Oz recommended this book!)</li>
+<li>
+<a href="https://twitter.com/awkc1996/status/1171792460198174726">What happens when you use Excel for your genetics papers</a> </li>
+<li><a href="https://www.hackreactor.com/">Hack Reactor</a></li>
+<li><a href="https://mitpress.mit.edu/sites/default/files/sicp/index.html">SICP</a></li>
+<li>
+<a href="https://github.com/gw">Grant Wu</a> on GitHub</li>
+<li>
+<a href="https://www.linkedin.com/in/gwu01/">Grant Wu</a> on LinkedIn</li>
+<li>
+<a href="https://twitter.com/whatrocks">Charlie Harrington</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/oznova_">Oz Nova</a> on Twitter</li>
+</ul><strong>Episode Sponsor</strong><ul><li><a href="https://bradfieldcs.com/">Bradfield School of Computer Science</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 18 Sep 2019 07:15:00 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://escapingweb.github.io/audio/005_learning_your_stripes_with_grant_wu_of_stripe.mp3" length="108724886" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+      <itunes:duration>5432</itunes:duration>
+      <itunes:summary>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</itunes:summary>
+      <itunes:subtitle>Grant Wu is a Software Engineer at Stripe on the Ruby Application Infrastructure team. He also hates scary movies, but still can’t stop himself from reading their IMDB synopses.</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+    <item>
+      <title>4: A Graphic(s) Conversation with Lauren Budorick of Figma</title>
+      <itunes:title>4: A Graphic(s) Conversation with Lauren Budorick of Figma</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">f9bf6cf5-7592-4b86-9c5e-131fa5ab73df</guid>
+      <link>https://escapingweb.github.io/audio/004_a_graphics_conversation_with_lauren_budorick_of_figma.mp3</link>
+      <description>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as "JIFs."</description>
+      <content:encoded>
+        <![CDATA[Find out how Lauren went from bootcamp grad to Graphics Software Engineer, first at Mapbox and now at Figma, where she's building their prototyping rendering engine.<br><br>Charlie and Oz dig into Lauren's tips for learning linear algebra, how to see everything in the world as a triangle, and navigating a company without managers. Charlie and Oz also each try to recount stories of "achieving the impossible", and both painfully fail to remember the exact details of their anecdotes.<br><br><strong>Links and resources:</strong><ul>
+<li>
+<a href="https://twitter.com/lbudorick/status/1149118970932281344">Lauren’s </a>😢<a href="https://twitter.com/lbudorick/status/1149118970932281344">.gif tweet</a> </li>
+<li>
+<a href="https://www.w3.org/Graphics/GIF/spec-gif89a.txt">The 1989 .gif spec</a> (which is still the latest release!)</li>
+<li><a href="http://www.olsenhome.com/gif/BOB_89A.GIF">Demo of the 1989 .gif spec (as rendered by a modern browser)</a></li>
+<li><a href="http://ata4.github.io/gifiddle/#http://www.olsenhome.com/gif/BOB_89A.GIF">Demo of the 1989 .gif spec (as it was intended, in all its feature-laden glory)</a></li>
+<li><a href="https://www.theatlantic.com/technology/archive/2019/03/hottest-chat-app-teens-google-docs/584857/">The hottest chap app for teens is... Google Docs</a></li>
+<li><a href="https://www.youtube.com/watch?v=Opzomu6mgYk">The Story of the SuperFX Chip: The chip that made Star Fox on the Super Nintendo possible</a></li>
+<li><a href="https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine">The Soul of a New Machine</a></li>
+<li><a href="https://www.youtube.com/watch?v=YFGY2BeyfzA">Lauren’s talk at Nordic.js (The Matrix is Everywhere: A primer on projections in Web Graphics)</a></li>
+<li><a href="https://www.3blue1brown.com/essence-of-linear-algebra-page">3Blue1Brown Linear Algebra YouTube series</a></li>
+<li><a href="https://www.figma.com/">Figma</a></li>
+<li><a href="https://www.figma.com/blog/section/engineering/">Figma's engineering blog</a></li>
+<li><a href="https://www.mapbox.com/">Mapbox</a></li>
+<li><a href="https://hackbrightacademy.com/">Hackbright Academy</a></li>
+<li><a href="https://www.goodreads.com/book/show/222146.Masters_of_Doom">Masters of Doom</a></li>
+<li>
+<a href="https://twitter.com/lbudorick">Lauren Budorick </a>on Twitter</li>
+<li>
+<a href="https://twitter.com/whatrocks">Charlie Harrington</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/oznova_">Oz Nova</a> on Twitter</li>
+</ul><strong>Episode Sponsor:</strong><ul><li><a href="https://bradfieldcs.com/">Bradfield School of Computer Science</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 05 Sep 2019 07:45:00 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://escapingweb.github.io/audio/004_a_graphics_conversation_with_lauren_budorick_of_figma.mp3" length="67580927" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+      <itunes:duration>3375</itunes:duration>
+      <itunes:summary>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as "JIFs."</itunes:summary>
+      <itunes:subtitle>Lauren Budorick is Graphics Software Engineer at Figma. She’s also read the 1989a .gif spec, yet still refuses to pronounce them as "JIFs."</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+    <item>
+      <title>3. Getting Time Serious with Richie Artoul of Uber</title>
+      <itunes:title>3. Getting Time Serious with Richie Artoul of Uber</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">69047a87-8ffa-49e9-a2b7-7b81bcd3c3d8</guid>
+      <link>https://escapingweb.github.io/audio/003_getting_time_serious_with_richie_artoul_of_uber.mp3</link>
+      <description>Richie Artoul is a software engineer on Uber's Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</description>
+      <content:encoded>
+        <![CDATA[Find out how Richie Artoul went from bootcamp grad to infrastructure engineer at Uber, where he's now building their open source metrics platform M3 and their open source distributed timeseries database M3DB.<br><br>Charlie and Oz dive into Richie's tips for side projects, reading programming textbooks, finding mentors at work, and navigating large engineering orgs like Uber. We also learn that Richie recently took up Jiu-Jitsu (just like Oz) - and now Charlie's hoping for a Vader / Obi Wan style "roll" in their future.<br><br><strong>Links and resources:</strong><ul>
+<li>
+<a href="https://eng.uber.com/optimizing-m3/">Optimizing MS: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler</a> - Richie's post on the Uber engineering blog</li>
+<li><a href="https://m3db.io/">M3 &amp; M3DB</a></li>
+<li><a href="https://www.nand2tetris.org/">Nand2Tetris</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">Rubber duck debugging</a></li>
+<li><a href="https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">DynamoDB paper</a></li>
+<li><a href="https://www.foundationdb.org/">FoundationDB</a></li>
+<li>
+<a href="https://jvns.ca/blog/brag-documents/">Write a brag document</a> - Julia Evans</li>
+<li>
+<a href="https://twitter.com/richardartoul">Richie Artoul</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/whatrocks">Charlie Harrington</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/oznova_">Oz Nova</a> on Twitter</li>
+</ul><strong>Episode Sponsor:</strong><ul><li><a href="https://bradfieldcs.com">Bradfield School of Computer Science</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 24 Jul 2019 23:25:00 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://escapingweb.github.io/audio/003_getting_time_serious_with_richie_artoul_of_uber.mp3" length="76468837" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+      <itunes:duration>3820</itunes:duration>
+      <itunes:summary>Richie Artoul is a software engineer on Uber's Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</itunes:summary>
+      <itunes:subtitle>Richie Artoul is a software engineer on Uber's Observability infrastructure team. He also really likes distributed timeseries databases, like a lot.</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+    <item>
+      <title>2: Epic Slacking with Roo Harrigan of Slack</title>
+      <itunes:title>2: Epic Slacking with Roo Harrigan of Slack</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">cf0fd467-0ac8-4496-9c72-fbad3c3636ee</guid>
+      <link>https://escapingweb.github.io/audio/002_epic_slacking_with_roo_harrigan_of_slack.mp3</link>
+      <description>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</description>
+      <content:encoded>
+        <![CDATA[Find out how Roo Harrigan went from an all-around generalist (product manager, project manager, sales demo'er, customer support agent) to a software engineer on the platform team at Slack, and now the Strategic Engineering Projects Lead reporting to Slack's CTO.<br><br>Charlie and Oz dig into about Roo's tips for finding mentors, achieving flow state, and onboarding engineers. We also learn that Oz has never worked in the food services industry. Oh, and they remember to introduce themselves and Roo at the beginning. Progress!<br><br><strong>Links and resources:</strong><ul>
+<li>
+<a href="https://medium.com/hackbright-capstone/day-29-30-and-beyond-reflections-on-the-first-thing-i-made-2f9e2660a04a">Roo’s 2015 blog post</a> about becoming an engineer</li>
+<li>
+<a href="http://frontsttrattoria.com/">Front St. Trattoria</a>, Red Bank, NJ</li>
+<li><a href="https://hackbrightacademy.com/">Hackbright Academy</a></li>
+<li>
+<a href="https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder">Slack Reminders</a> (Roo’s first project at Slack)</li>
+<li>
+<a href="https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202">Flow: The Pyschology of Optimal Experience</a> by Mihaly Csikszentmihalyi </li>
+<li>
+<a href="https://twitter.com/roo_harrigan">Roo Harrigan</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/whatrocks">Charlie Harrington</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/oznova_">Oz Nova</a> on Twitter</li>
+</ul><strong>Episode Sponsor:</strong><ul><li><a href="https://bradfieldcs.com">Bradfield School of Computer Science</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 27 Jun 2019 08:30:00 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://escapingweb.github.io/audio/002_epic_slacking_with_roo_harrigan_of_slack.mp3" length="75543990" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+      <itunes:duration>3773</itunes:duration>
+      <itunes:summary>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</itunes:summary>
+      <itunes:subtitle>Roo Harrigan is the Strategic Engineering Projects Lead at Slack. She’s also the self-proclaimed Mentor Queen.</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+    <item>
+      <title>1: A Quantum of Sad Things Happening to Felix Tripier of IonQ</title>
+      <itunes:title>1: A Quantum of Sad Things Happening to Felix Tripier of IonQ</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">99905313-f031-4af9-ab39-f7b873c581e6</guid>
+      <link>https://escapingweb.github.io/audio/001_a_quantum_of_sad_things_happening_to_felix_tripier_of_ionq.mp3</link>
+      <description>Felix Tripier is a software engineer at a quantum computing company. He's also eating cold lasagna out of a coffee mug.</description>
+      <content:encoded>
+        <![CDATA[Find out how Felix Tripier went from high-school and college dropout (watch out Silicon Valley, he's a double-dropout) to working as web developer at several Bay Area startups to presenting his open-source research at a quantum computing conference, leading to his current gig as a software engineer at IonQ, a quantum computing company.<br><br>Charlie and Oz dig into Felix's study habits and learning goals, briefly dip into theoretical computing topics before coming up for air, and altogether forget to introduce themselves, Felix, or the podcast itself. <br><br><strong>Links and resources:</strong><ul>
+<li><a href="https://en.wikipedia.org/wiki/Grave_of_the_Fireflies">Grave of the Fireflies</a></li>
+<li>Richard Hamming, "You And Your Research": <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">Transcript</a> and <a href="https://www.youtube.com/watch?v=a1zDuOPkMSw">Video</a>
+</li>
+<li>
+<a href="https://github.com/ftripier/Q-bug">Q-Bug</a>, Felix's open source, web-based visual debugger for Quil quantum programs</li>
+<li>
+<a href="https://twitter.com/FelixTripier">Felix Tripier</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/whatrocks">Charlie Harrington</a> on Twitter</li>
+<li>
+<a href="https://twitter.com/oznova_">Oz Nova</a> on Twitter</li>
+</ul><strong>Episode Sponsor:</strong><ul><li><a href="https://bradfieldcs.com">Bradfield School of Computer Science</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 13 Jun 2019 22:30:00 -0700</pubDate>
+      <author>Charlie Harrington and Oz Nova</author>
+      <enclosure url="https://escapingweb.github.io/audio/001_a_quantum_of_sad_things_happening_to_felix_tripier_of_ionq.mp3" length="99215166" type="audio/mpeg"/>
+      <itunes:author>Charlie Harrington and Oz Nova</itunes:author>
+      <itunes:image href="https://escapingweb.github.io/rss/logo.jpg"/>
+      <itunes:duration>4960</itunes:duration>
+      <itunes:summary>Felix Tripier is a software engineer at a quantum computing company. He's also eating cold lasagna out of a coffee mug.</itunes:summary>
+      <itunes:subtitle>Felix Tripier is a software engineer at a quantum computing company. He's also eating cold lasagna out of a coffee mug.</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+  </channel>
+</rss>
